@@ -1,1 +1,0 @@
-import{P as t}from"./ProductCard.ca1dff91.js";import{_ as r,c,o as e,x as n}from"./index.ea781407.js";import"./VRating.f3d691d7.js";import"./VLazy.006817a4.js";const s={components:{ProductCard:t}};function a(p,_,d,m,u,f){const o=n("ProductCard");return e(),c(o)}const P=r(s,[["render",a]]);export{P as default};
